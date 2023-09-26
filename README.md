@@ -1,4 +1,4 @@
-# Julia Regression Template
+# Linear Regression Model in Julia
 
 This is a dockerized, Julia-based linear regression model. The purpose of this project is to provide a functional model that can be used as a template for building your own regression model.
 
