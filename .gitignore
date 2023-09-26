@@ -1,0 +1,5 @@
+.ipynb*
+train.jl
+predict.jl
+.DS_Store
+test.ipynb
